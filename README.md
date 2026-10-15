@@ -14,7 +14,7 @@ Cropolis braucht kein Konto, zeigt keine Werbung und verfolgt dich nicht über a
 
 ### Verantwortlicher
 
-Frederik Zuccaro, Via Sara Scuderi 6, Catania, Italien  
+Frederik Zuccaro, 65812 Bad Soden, Deutschland  
 E-Mail: backend.nachricht.3w@icloud.com
 
 ### 1. Spielstand und Einstellungen
@@ -41,7 +41,7 @@ Wenn du 16 Jahre oder älter bist und zustimmst, sendet die App anonyme Nutzungs
 
 Gesendet werden: Spielereignisse (z. B. Level erreicht, Gebäude gebaut, Forschung fertig, Sitzungsdauer in groben Stufen), App-Version, Gerätemodell, Betriebssystem-Version, Sprache, Region, Zeitzone, Bildschirmgröße und einige Bedienungshilfen-Einstellungen. Dazu kommt eine Gerätekennung, die schon auf deinem Gerät unumkehrbar verschlüsselt wird (Hash). Namen, Dorfnamen oder Inhalte aus dem Spielstand werden nicht gesendet.
 
-Rechtsgrundlage ist deine Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und Art. 5 Abs. 3 der ePrivacy-Richtlinie. TelemetryDeck verarbeitet die Daten in unserem Auftrag auf Servern in Deutschland und den Niederlanden. IP-Adressen speichert TelemetryDeck nach eigener Angabe nicht. Speicherdauer: Die Daten sind anonym; TelemetryDeck hat keine feste Löschfrist und rechnet mit einer Löschung nach 7 bis 10 Jahren.
+Rechtsgrundlage ist deine Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG. TelemetryDeck verarbeitet die Daten in unserem Auftrag auf Servern in Deutschland und den Niederlanden. IP-Adressen speichert TelemetryDeck nach eigener Angabe nicht. Speicherdauer: Die Daten sind anonym; TelemetryDeck hat keine feste Löschfrist und rechnet mit einer Löschung nach 7 bis 10 Jahren.
 
 Widerruf: jederzeit unter Einstellungen → Rechtliches → „Anonyme Statistik“. Danach sendet die App nichts mehr. Unter 16 Jahren ist die Statistik immer aus.
 
@@ -61,7 +61,7 @@ Schreibst du uns, verwenden wir deine Nachricht und E-Mail-Adresse nur, um dir z
 
 Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch (Art. 15 bis 21 DSGVO). Eine Einwilligung kannst du jederzeit für die Zukunft widerrufen. Schreib uns dazu an backend.nachricht.3w@icloud.com.
 
-Du kannst dich außerdem bei einer Datenschutz-Aufsichtsbehörde beschweren, zum Beispiel bei der Behörde deines Bundeslands oder bei der für uns zuständigen: Garante per la protezione dei dati personali (Rom, Italien).
+Du kannst dich außerdem bei einer Datenschutz-Aufsichtsbehörde beschweren, zum Beispiel bei der Behörde deines Bundeslands oder bei der für uns zuständigen: Der Hessische Beauftragte für Datenschutz und Informationsfreiheit (Wiesbaden).
 
 ### 9. Kinder und Jugendliche
 
@@ -79,7 +79,7 @@ Cropolis needs no account, shows no ads and does not track you across other apps
 
 ### Controller
 
-Frederik Zuccaro, Via Sara Scuderi 6, Catania, Italy  
+Frederik Zuccaro, 65812 Bad Soden, Germany  
 Email: backend.nachricht.3w@icloud.com
 
 ### 1. Game and settings
@@ -106,7 +106,7 @@ If you are 16 or older and agree, the app sends anonymous usage data to Telemetr
 
 What is sent: game events (e.g. level reached, building built, research finished, session length in rough steps), app version, device model, operating system version, language, region, time zone, screen size and some accessibility settings, plus a device identifier that is irreversibly encrypted (hashed) on your device. Names, village names and game content are not sent.
 
-The legal basis is your consent under Art. 6(1)(a) GDPR and Art. 5(3) of the ePrivacy Directive. TelemetryDeck processes the data on our behalf on servers in Germany and the Netherlands. According to TelemetryDeck, IP addresses are not stored. Retention: the data is anonymous; TelemetryDeck has no fixed deletion date and expects to delete it after 7 to 10 years.
+The legal basis is your consent under Art. 6(1)(a) GDPR and § 25(1) TDDDG. TelemetryDeck processes the data on our behalf on servers in Germany and the Netherlands. According to TelemetryDeck, IP addresses are not stored. Retention: the data is anonymous; TelemetryDeck has no fixed deletion date and expects to delete it after 7 to 10 years.
 
 Withdrawal: at any time under Settings → Legal → “Anonymous statistics”. The app then stops sending. Statistics are always off for players under 16.
 
@@ -126,7 +126,7 @@ If you write to us, we use your message and email address only to reply (Art. 6(
 
 You have the right of access, rectification, erasure, restriction of processing, data portability and objection (Art. 15 to 21 GDPR). You can withdraw consent at any time with effect for the future. Just write to backend.nachricht.3w@icloud.com.
 
-You can also complain to a data protection supervisory authority, for example the one where you live or the one responsible for us: Garante per la protezione dei dati personali (Rome, Italy).
+You can also complain to a data protection supervisory authority, for example the one where you live or the one responsible for us: Der Hessische Beauftragte für Datenschutz und Informationsfreiheit (Wiesbaden, Germany).
 
 ### 9. Children and teenagers
 

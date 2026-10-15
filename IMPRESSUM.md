@@ -8,12 +8,11 @@ Für die iOS-App „Cropolis“ · For the iOS app “Cropolis”
 
 *Stand: 15. Oktober 2026*
 
-### Anbieter
+### Angaben gemäß § 5 DDG
 
 Frederik Zuccaro  
-Via Sara Scuderi 6  
-Catania  
-Italien
+65812 Bad Soden  
+Deutschland
 
 ### Kontakt
 
@@ -37,12 +36,11 @@ Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor e
 
 *Last updated: 15 October 2026*
 
-### Provider
+### Information pursuant to § 5 DDG (German Digital Services Act)
 
 Frederik Zuccaro  
-Via Sara Scuderi 6  
-Catania  
-Italy
+65812 Bad Soden  
+Germany
 
 ### Contact
 
