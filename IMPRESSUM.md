@@ -11,6 +11,7 @@ Für die iOS-App „Cropolis“ · For the iOS app “Cropolis”
 ### Angaben gemäß § 5 DDG
 
 Frederik Zuccaro  
+Kastanienhain  
 65812 Bad Soden  
 Deutschland
 
@@ -39,6 +40,7 @@ Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor e
 ### Information pursuant to § 5 DDG (German Digital Services Act)
 
 Frederik Zuccaro  
+Kastanienhain  
 65812 Bad Soden  
 Germany
 

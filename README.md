@@ -14,7 +14,7 @@ Cropolis braucht kein Konto, zeigt keine Werbung und verfolgt dich nicht über a
 
 ### Verantwortlicher
 
-Frederik Zuccaro, 65812 Bad Soden, Deutschland  
+Frederik Zuccaro, Kastanienhain, 65812 Bad Soden, Deutschland  
 E-Mail: backend.nachricht.3w@icloud.com
 
 ### 1. Spielstand und Einstellungen
@@ -79,7 +79,7 @@ Cropolis needs no account, shows no ads and does not track you across other apps
 
 ### Controller
 
-Frederik Zuccaro, 65812 Bad Soden, Germany  
+Frederik Zuccaro, Kastanienhain, 65812 Bad Soden, Germany  
 Email: backend.nachricht.3w@icloud.com
 
 ### 1. Game and settings
