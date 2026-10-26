@@ -6,11 +6,11 @@ Für die iOS-App „Cropolis“ · For the iOS app “Cropolis”
 
 ## Datenschutz
 
-*Stand: 15. Oktober 2026*
+*Stand: 26. Oktober 2026*
 
 ### Kurz gesagt
 
-Cropolis braucht kein Konto, zeigt keine Werbung und verfolgt dich nicht über andere Apps hinweg. Dein Spielstand liegt auf deinem Gerät. Daten verlassen das Gerät nur für die Nachbarn, für Live-Events, für Käufe über Apple und – nur wenn du zustimmst – für eine anonyme Spielstatistik.
+Cropolis braucht kein Konto, zeigt keine Werbung und verfolgt dich nicht über andere Apps hinweg. Dein Spielstand liegt auf deinem Gerät. Daten verlassen das Gerät nur für die Nachbarn, für Live-Events, für Käufe über Apple, für eine Rückmeldung, wenn du sie ausdrücklich sendest, und – nur wenn du zustimmst – für eine anonyme Spielstatistik.
 
 ### Verantwortlicher
 
@@ -65,17 +65,25 @@ Du kannst dich außerdem bei einer Datenschutz-Aufsichtsbehörde beschweren, zum
 
 ### 9. Kinder und Jugendliche
 
-Cropolis darf auch von Kindern gespielt werden. Wer jünger als 16 ist, bekommt keine Statistik. Für die Nachbarn reicht ein Fantasiename. Eltern können sich jederzeit an uns wenden.
+Cropolis darf auch von Kindern gespielt werden. Wer jünger als 16 ist, bekommt keine Statistik. Für die Nachbarn reicht ein Fantasiename. Auch eine Rückmeldung können alle senden; bitte schreib dabei keine persönlichen Angaben. Eltern können sich jederzeit an uns wenden.
+
+### 10. Rückmeldung
+
+Die App kann dich fragen, wie dir Cropolis gefällt, und dir die Möglichkeit geben, uns eine Rückmeldung zu schreiben. Gesendet wird sie erst, wenn du auf „Senden“ tippst. Damit stimmst du dieser Datenschutzerklärung ausdrücklich zu. Tippst du auf „Nicht senden“, wird nichts übertragen.
+
+Übertragen werden deine Sterne-Angabe, dein Text (höchstens 500 Zeichen), dein Level, die App-Sprache, die App-Version und deine Spielzeit in Minuten. Es wird kein Name und keine E-Mail-Adresse gespeichert. Bitte schreib keine persönlichen Angaben in den Text.
+
+Wir nutzen die Rückmeldung ausschließlich, um die App zu verbessern. Sie wird über Apple (CloudKit, Apple Distribution International Ltd., Cork, Irland) gespeichert. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), die du jederzeit widerrufen kannst. Aufbewahrt wird sie bis zur Auswertung. Zum Löschen schreib uns an backend.nachricht.3w@icloud.com und nenne ungefähre Zeit, Level oder Sterne.
 
 ---
 
 ## Privacy
 
-*Last updated: 15 October 2026*
+*Last updated: 26 October 2026*
 
 ### In short
 
-Cropolis needs no account, shows no ads and does not track you across other apps. Your game is stored on your device. Data only leaves the device for neighbours, for live events, for purchases through Apple and – only if you agree – for anonymous game statistics.
+Cropolis needs no account, shows no ads and does not track you across other apps. Your game is stored on your device. Data only leaves the device for neighbours, for live events, for purchases through Apple, for feedback if you explicitly send it, and – only if you agree – for anonymous game statistics.
 
 ### Controller
 
@@ -130,7 +138,15 @@ You can also complain to a data protection supervisory authority, for example th
 
 ### 9. Children and teenagers
 
-Children may play Cropolis. Anyone under 16 gets no statistics. A made-up name is fine for neighbours. Parents can contact us at any time.
+Children may play Cropolis. Anyone under 16 gets no statistics. A made-up name is fine for neighbours. Anyone can also send feedback; please do not put personal details in it. Parents can contact us at any time.
+
+### 10. Feedback
+
+The app may ask you how you like Cropolis and give you the option to write us some feedback. It is only sent once you tap “Send”. By doing so you expressly agree to this privacy policy. If you tap “Don't send”, nothing is transmitted.
+
+What is transmitted: your star rating, your text (at most 500 characters), your level, the app language, the app version and your play time in minutes. No name and no email address is stored. Please do not put personal details in the text.
+
+We use the feedback solely to improve the app. It is stored via Apple (CloudKit, Apple Distribution International Ltd., Cork, Ireland). The legal basis is your consent (Art. 6(1)(a) GDPR), which you can withdraw at any time. It is kept until it has been evaluated. To have it deleted, write to backend.nachricht.3w@icloud.com and tell us the approximate time, level or stars.
 
 ---
 

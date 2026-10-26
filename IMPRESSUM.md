@@ -6,7 +6,7 @@ Für die iOS-App „Cropolis“ · For the iOS app “Cropolis”
 
 ## Impressum
 
-*Stand: 15. Oktober 2026*
+*Stand: 26. Oktober 2026*
 
 ### Angaben gemäß § 5 DDG
 
@@ -35,7 +35,7 @@ Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor e
 
 ## Legal notice
 
-*Last updated: 15 October 2026*
+*Last updated: 26 October 2026*
 
 ### Information pursuant to § 5 DDG (German Digital Services Act)
 

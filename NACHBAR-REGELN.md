@@ -6,7 +6,7 @@ Für die iOS-App „Cropolis“ · For the iOS app “Cropolis”
 
 ## Regeln für Nachbarn
 
-*Stand: 15. Oktober 2026*
+*Stand: 26. Oktober 2026*
 
 ### Was andere sehen
 
@@ -30,7 +30,7 @@ Bist du mit einer Entscheidung nicht einverstanden, schreib uns an backend.nachr
 
 ## Neighbour rules
 
-*Last updated: 15 October 2026*
+*Last updated: 26 October 2026*
 
 ### What others see
 
